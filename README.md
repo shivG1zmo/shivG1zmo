@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Shivram 👋
 
-<!--
-**shivG1zmo/shivG1zmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second year CSE student at College of Engineering Guindy, Anna University.
 
-Here are some ideas to get you started:
+I build web apps and I'm learning game development on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I work with
+- **Frontend:** HTML, CSS, JavaScript, React, Angular
+- **Backend:** Node.js, Express.js, Spring Boot
+- **Databases:** MongoDB, MySQL
+- **Languages:** JavaScript, Java, C++
+- **Game Dev:** Unreal Engine 5 (learning)
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Projects
+- **[Student Assignment Portal](https://assignment-portal-react.vercel.app/login)** — Full stack MERN/MEAN app with student and professor interfaces
+- **[PomoDomo Timer]([https://shivG1zmo.github.io/pomodomo-timer/](https://shivg1zmo.github.io/pomodoro-timer/))** — Pomodoro timer built with vanilla JS, deployed on GitHub Pages
+- **Daily Study Time Tracker** — Spring Boot + MySQL web app
+
+## 📫 Reach me
+- Email: shivramc825@gmail.com
+- LinkedIn: www.linkedin.com/in/shivram-c-738535273
+
+## 🎯 Currently
+- 2nd year @ CEG Anna University
+- Learning Unreal Engine 5
+- Open to internships in software development
